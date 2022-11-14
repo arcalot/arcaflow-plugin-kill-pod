@@ -183,6 +183,7 @@ class WaitForPodTest(unittest.TestCase):
                             )
                         ]
                     ),
+                    )
                 )
 
             def remove_test_pod():
